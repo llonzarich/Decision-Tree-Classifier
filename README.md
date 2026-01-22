@@ -1,7 +1,12 @@
 # Decision Tree Classifier Implementation and Evaluation
 
 ## Project Overview
-This project implements a decision tree classifier from scratch using the Top Down Induction for Decision Tree (TDIDT) algorithm and evaluating performance on various data subsets. Significant attention is placed on the underlying mathematical logic of recursive partition. 
+This project implements a decision tree classifier from scratch using the Top Down Induction for Decision Tree (TDIDT) algorithm.
+
+# Key Focuses
+* **Recursive partitioning:** Built the tree from the ground up, with significant attention placed on the underlying mathematical logic. 
+* **Mathematical Logic:** Performed entropy calculations and information gain to determine optimal splits.
+* **Performance Evaluation:** Validatied model accuracy across various data subsets.
 
 ## Technology Stack
 * **Language:** Python
