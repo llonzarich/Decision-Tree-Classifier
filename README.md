@@ -3,6 +3,10 @@
 ## Project Overview
 This project implements a decision tree classifier from scratch using the Top Down Induction for Decision Tree (TDIDT) algorithm and evaluating performance on various data subsets. Significant attention is placed on the underlying mathematical logic of recursive partition. 
 
+## Tech Details
+* **Language:** Python
+* **Libraries:** Numpy
+
 ## To Run Unit Tests
 Run `pytest --verbose`
 * This command runs all the discovered tests in the project
