@@ -1,12 +1,12 @@
 # Decision Tree Classifier Implementation and Evaluation
 
 ## Project Overview
-This project implements a decision tree classifier from scratch using the Top Down Induction for Decision Tree (TDIDT) algorithm.
+This project benchmarks the performance of custom k-Nearest Nieghbors (kNN) against a Dummy Classifier baseline. Attention is placed on comparing statistical techniques for estimating model accuracy.
 
-# Key Focuses
-* **Recursive partitioning:** Built the tree from the ground up, with significant attention placed on the underlying mathematical logic. 
+# Key Features
+* **Dataset Splitting Strategies :** Implemented and compared Random Sub-Sampling, 10-Fold Cross Validation, and Bootstrap methods.
 * **Mathematical Logic:** Performed entropy calculations and information gain to determine optimal splits.
-* **Performance Evaluation:** Validatied model accuracy across various data subsets.
+* **Performance Analysis:** Comparative analysis of accuracy and error rates across different validation techniques to understand how dataset splitting impacts predictive robustness.
 
 ## Technology Stack
 * **Language:** Python
